@@ -1,0 +1,73 @@
+{
+    "name":"Abomasnow",
+    "type":"Grass/Ice",
+    "imageUrl":"https://twinfinite.net/wp-content/uploads/2020/12/mega-abomasnow.jpg"
+}
+{
+    "name":"Abra",
+    "type":"Pschic",
+    "imageUrl":"https://pokestop.io/img/pokemon/abra-256x256.png"
+}
+
+{
+    "name":"Absol ",
+    "type":"Dark",
+    "imageUrl":"https://img.rankedboost.com/wp-content/uploads/2021/03/Pokemon-Unite-Absol-Builds.png"
+}
+
+
+{
+    "name":"Alomomola ",
+    "type":"Water",
+    "imageUrl":"https://images.gameinfo.io/pokemon/256/594-00.png"
+}
+{
+    "name":"Alakazam ",
+    "type":"Psychic",
+    "imageUrl":"https://static.wikia.nocookie.net/pokemon-encyclopedia/images/c/cc/065Alakazam.png/revision/latest/scale-to-width-down/250?cb=20171221185910"
+}
+{
+    "name":"Aipom",
+    "type":"Normal",
+    "imageUrl":"https://pokestop.io/img/pokemon/aipom-256x256.png"
+}
+{
+    "name":"Aegislash ",
+    "type":"Ghost",
+    "imageUrl":"https://www.serebii.net/swordshield/pokemon/681.pn"
+}
+{
+    "name":"Accelgor",
+    "type":"Bug",
+    "imageUrl":"https://www.serebii.net/Shiny/SWSH/617.png"
+}
+
+
+{
+    "name":"Ponyta ",
+    "type":"Fire",
+    "imageUrl":"https://images.gameinfo.io/pokemon/256/077-00.png"
+}
+
+{
+    "name":"Pikachu ",
+    "type":"Electric",
+    "imageUrl":"https://www.warmoven.in/media/catalog/product/cache/4e14bcb566d25893ae7201d4dbdc22fd/image/14883cb6/pikachu-photo-cake-2.png"
+}
+{
+    "name":"Arbok",
+    "type":"Poison",
+    "imageUrl":"http://www.pokego.org/assets/img/pokemon/arbok-pokemon-go.png"
+}{
+    "name":"Archen ",
+    "type":"Flying",
+    "imageUrl":"https://pokestop.io/img/pokemon/archen-256x256.png"
+}
+
+{
+    "name":"Arctozolt ",
+    "type":"Electric",
+    "imageUrl":"https://static.wikia.nocookie.net/pokemon/images/4/4b/881Arctozolt_Dream_2.png/revision/latest/scale-to-width-down/250?cb=20210303103432"
+}
+
+mongodb+srv://suraj:<password>@cluster0.3knk7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
